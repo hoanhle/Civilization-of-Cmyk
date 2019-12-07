@@ -20,8 +20,8 @@ STEP 3: Build project by Qt and run.
 
 ## Author and acknowledgement
 
-Tampere Universities | Science and Engineering | ICT/Maths/Machine Learning
-Hoanh Le - hoanhle100100@gmail.com
+Tampere Universities | Science and Engineering | ICT/Maths/Machine Learning\
+Hoanh Le - <i>hoanhle100100@gmail.com</i>
 
 
 
